@@ -11,6 +11,7 @@ markers:
   - {type: variant, offset: 3, length: 1, content: 第, WYG: ''}
   - {type: punctuation, offset: 6, content: (, id: KR3l0072_krp_014-bkkpn1}
   - {type: variant, offset: 6, length: 4, content: 五則相臺, WYG: 宋}
+  - {type: 'voice:problem', offset: 6, length: 0, id: KR3l0072_bkk_014-bkkvprob1, source: parens, bucket: front, code: unmatched-open, message: unmatched '(' at offset 6}
   body:
   - {type: punctuation, offset: 0, content: ), id: KR3l0072_krp_014-bkkpn1}
   - {type: 'kr:newline', offset: 0, content: '
@@ -18,6 +19,7 @@ markers:
       ', id: KR3l0072_krp_014-bkkkrnewl1}
   - {type: line-break, offset: 0, content: '', id: KR3l0072_SBCK_014-1a02}
   - {type: indent, offset: 0, content: 　　　　　　　　　　, id: KR3l0072_krp_014-bkkind1}
+  - {type: 'voice:problem', offset: 0, length: 0, id: KR3l0072_bkk_014-bkkvprob2, source: parens, bucket: body, code: stray-close, message: unexpected ')' at offset 0 with no matching '('}
   - {type: indent, offset: 1, content: 　, id: KR3l0072_krp_014-bkkind2}
   - {type: indent, offset: 2, content: 　, id: KR3l0072_krp_014-bkkind3}
   - {type: substitution, offset: 2, original: 岳, replacement: 嶽, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20630}}
@@ -1719,4 +1721,4 @@ markers:
 
       ', id: KR3l0072_krp_014-bkkkrnewl260}
   back: []
-hash: sha256:74338123c4cda0f04ca0d679002836aff86b4f7c36990a910f7536d43185ae9b
+hash: sha256:4d43d74a922a9cd4ea173c9c4b53d36b403bc98e5c22d7ad5aa128042f7113dc
