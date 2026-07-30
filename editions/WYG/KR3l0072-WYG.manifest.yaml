@@ -18,7 +18,7 @@ entity_encoding:
 assets:
   parts:
   - {seq: 0, filename: KR3l0072_000-WYG.yaml, hash: 'sha256:219671d882e8cc3c810cd3843b1d1b3334cf65c560be488e02f8e188532e7b8d'}
-  - {seq: 1, filename: KR3l0072_001-WYG.yaml, hash: 'sha256:7bbc49e5191ce9d89b3901a8d1acc51fb0a136b9a61d9305be6253eb58911341'}
+  - {seq: 1, filename: KR3l0072_001-WYG.yaml, hash: 'sha256:33b7b52b20becb0e23f50d3e17382f3bf41d340497454884dbd0801faf2b370d'}
   - {seq: 2, filename: KR3l0072_002-WYG.yaml, hash: 'sha256:bab4f868af93e2e0b807ed62301278a0b4b70ab2578176cc20209b7a59d22f5f'}
   - {seq: 3, filename: KR3l0072_003-WYG.yaml, hash: 'sha256:384cf51c1df09f664382ea0d507251efeb8d7d4c2626c8f789d9425f3a6ad64e'}
   - {seq: 4, filename: KR3l0072_004-WYG.yaml, hash: 'sha256:86567229888dbfbc0e0eee0ee9dcb32fc2b4cd41b0aa8bdf125b84e87b86f824'}
@@ -35,7 +35,7 @@ assets:
   - {seq: 15, filename: KR3l0072_015-WYG.yaml, hash: 'sha256:3e4aba39ba30300277277edd56cd19141aadb4c0c19fb6523012c09fb890b188'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR3l0072_000-WYG.markers.yaml, hash: 'sha256:47844776ea28021f2a8a36de8cc8263d10722453946451a68bca0176a3db7694'}
-  - {seq: 1, role: markers, filename: assets/KR3l0072_001-WYG.markers.yaml, hash: 'sha256:d2caf3874938a959eb73124367b9f542b543cfea25df49fa857ef9fb25b5d340'}
+  - {seq: 1, role: markers, filename: assets/KR3l0072_001-WYG.markers.yaml, hash: 'sha256:753df79ceb0d6e3b53259016352983f7c874e7329ae31effed87602b5a3208ea'}
   - {seq: 2, role: markers, filename: assets/KR3l0072_002-WYG.markers.yaml, hash: 'sha256:fbade96b5472112f74e0653d9df8bf7ec9a8e5d090f53a43abb73ed21d414773'}
   - {seq: 3, role: markers, filename: assets/KR3l0072_003-WYG.markers.yaml, hash: 'sha256:2cf78af0d4fde5fb41d9c667ba67145e88ebf47b1a7c17600c9e41bc17575b21'}
   - {seq: 4, role: markers, filename: assets/KR3l0072_004-WYG.markers.yaml, hash: 'sha256:57f2ed1509b8300040f737429f7ab2f8d644aed0eb9b7d1e592f250959510a46'}
@@ -66,8 +66,8 @@ table_of_contents:
     marker_id: KR3l0072_WYG_001-1b
     span:
     - body
-    - 0
-    - 3916
+    - 384
+    - 4300
   label: juan 001
   type: section
   level: 1
@@ -211,4 +211,4 @@ table_of_contents:
   label: juan 015
   type: section
   level: 1
-hash: sha256:bb4d35923740877106dc4f23ed742c9837a92712cf806fc16baed32135eda6f3
+hash: sha256:db5531ab7a66034472f6823f959c9f96d169b0f4ce7ab5c77b462311bff6bbaa
